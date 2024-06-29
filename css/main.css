@@ -1,3 +1,41 @@
+html{
+    background-color: #ffffff;
+    color: #000000;
+}
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
 body{
-    background-color: #0d1117;
+    min-height: 100vh;
+}
+
+.sidebar{
+    position: fixed;  /* Or absolute for different positioning */
+    width: 200px;
+    max-width: 23%;
+    height: 100vh;  /* Set to 100% viewport height */
+    padding: 10px;
+    background-color: #e6e6e6;
+}
+
+header{
+    background-color: #404040;
+    height: 150px;
+    text-align: center;
+    font-size: 69px;
+    color: #ffffff;
+    padding-top: 25px;
+}
+
+.pfp{
+    border-radius: 50%;
+    border: 3px solid black;
+    aspect-ratio: 1 / 1;
+    width: 75%;
+    vertical-align: middle;
+    margin: 20px;
 }
