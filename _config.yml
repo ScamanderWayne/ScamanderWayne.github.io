@@ -26,10 +26,13 @@ description: >- # used by seo meta and the atom feed
 url: "scamanderwayne.github.io"
 
 github:
-  username: Scamander Wayne # change to your GitHub username
+  username: ScamanderWayne # change to your GitHub username
 
-discord:
-  username: Scamander Wayne
+discordapp:
+  username: users/620929837560889344
+
+reddit:
+  username: user/Scamander-Wayne
 
 social:
   # Change to your full name.
@@ -96,10 +99,10 @@ theme_mode: dark # [light | dark]
 # will be added to all media resources (site avatar, posts' images, audio and video files) paths starting with '/'
 #
 # e.g. 'https://cdn.com'
-cdn: "https://chirpy-img.netlify.app"
+cdn:
 
 # the avatar on sidebar, support local or CORS resources
-avatar: "/commons/Wayne.jpg"
+avatar: /assets/img/Wayne.jpg
 
 # The URL of the site-wide social preview image used in SEO `og:image` meta tag.
 # It can be overridden by a customized `page.image` in front matter.
