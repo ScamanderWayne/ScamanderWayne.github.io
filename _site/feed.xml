@@ -1,0 +1,49 @@
+
+
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <id>http://localhost:4000/ScamanderWayne.github.io/</id>
+  <title>Scamander Wayne</title>
+  <subtitle>Personal playground of Scamander Wayne to do basically anything he thinks of doing.</subtitle>
+  <updated>2024-12-10T12:30:07+01:00</updated>
+  <author>
+    <name>Libor Halík alias Scamander Wayne</name>
+    <uri>http://localhost:4000/ScamanderWayne.github.io/</uri>
+  </author>
+  <link rel="self" type="application/atom+xml" href="http://localhost:4000/ScamanderWayne.github.io/feed.xml"/>
+  <link rel="alternate" type="text/html" hreflang="en"
+    href="http://localhost:4000/ScamanderWayne.github.io/"/>
+  <generator uri="https://jekyllrb.com/" version="4.3.4">Jekyll</generator>
+  <rights> © 2024 Libor Halík alias Scamander Wayne </rights>
+  <icon>/ScamanderWayne.github.io/assets/img/favicons/favicon.ico</icon>
+  <logo>/ScamanderWayne.github.io/assets/img/favicons/favicon-96x96.png</logo>
+
+
+  
+  <entry>
+    <title>How this web got to be released (How Wayne nearly lost his mind)</title>
+    <link href="http://localhost:4000/ScamanderWayne.github.io/posts/CREATION/" rel="alternate" type="text/html" title="How this web got to be released (How Wayne nearly lost his mind)" />
+    <published>2024-12-04T00:00:00+01:00</published>
+  
+    <updated>2024-12-10T08:00:11+01:00</updated>
+  
+    <id>http://localhost:4000/ScamanderWayne.github.io/posts/CREATION/</id>
+    <content type="text/html" src="http://localhost:4000/ScamanderWayne.github.io/posts/CREATION/" />
+    <author>
+      <name>wayne</name>
+    </author>
+
+  
+    
+    <category term="DIARY" />
+    
+    <category term="WEBPAGE" />
+    
+  
+
+  <summary>About how I made my website</summary>
+
+  </entry>
+
+</feed>
+
+

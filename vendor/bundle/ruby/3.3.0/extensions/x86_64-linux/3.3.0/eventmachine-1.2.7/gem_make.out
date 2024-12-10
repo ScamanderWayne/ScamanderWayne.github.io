@@ -1,0 +1,19 @@
+current directory: /home/scamander/Documents/GitHub/ScamanderWayne.github.io/vendor/bundle/ruby/3.3.0/gems/eventmachine-1.2.7/ext/fastfilereader
+/usr/bin/ruby extconf.rb
+creating Makefile
+
+current directory: /home/scamander/Documents/GitHub/ScamanderWayne.github.io/vendor/bundle/ruby/3.3.0/gems/eventmachine-1.2.7/ext/fastfilereader
+make DESTDIR\= sitearchdir\=./.gem.20241210-34994-wo9z4m sitelibdir\=./.gem.20241210-34994-wo9z4m clean
+
+current directory: /home/scamander/Documents/GitHub/ScamanderWayne.github.io/vendor/bundle/ruby/3.3.0/gems/eventmachine-1.2.7/ext/fastfilereader
+make DESTDIR\= sitearchdir\=./.gem.20241210-34994-wo9z4m sitelibdir\=./.gem.20241210-34994-wo9z4m
+compiling mapper.cpp
+compiling rubymain.cpp
+linking shared-object fastfilereaderext.so
+
+current directory: /home/scamander/Documents/GitHub/ScamanderWayne.github.io/vendor/bundle/ruby/3.3.0/gems/eventmachine-1.2.7/ext/fastfilereader
+make DESTDIR\= sitearchdir\=./.gem.20241210-34994-wo9z4m sitelibdir\=./.gem.20241210-34994-wo9z4m install
+/usr/bin/install -c -m 0755 fastfilereaderext.so ./.gem.20241210-34994-wo9z4m
+
+current directory: /home/scamander/Documents/GitHub/ScamanderWayne.github.io/vendor/bundle/ruby/3.3.0/gems/eventmachine-1.2.7/ext/fastfilereader
+make DESTDIR\= sitearchdir\=./.gem.20241210-34994-wo9z4m sitelibdir\=./.gem.20241210-34994-wo9z4m clean

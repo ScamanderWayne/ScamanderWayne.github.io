@@ -1,0 +1,35 @@
+current directory: /home/scamander/Documents/GitHub/ScamanderWayne.github.io/vendor/bundle/ruby/3.3.0/gems/io-event-1.7.4/ext
+/usr/bin/ruby extconf.rb
+checking for rb_ext_ractor_safe()... yes
+checking for &rb_fiber_transfer()... yes
+checking for -luring... no
+checking for sys/epoll.h... yes
+checking for sys/event.h... no
+checking for sys/wait.h... yes
+checking for sys/eventfd.h... yes
+checking for rb_io_descriptor()... yes
+checking for &rb_process_status_wait()... yes
+checking for rb_fiber_current()... yes
+checking for &rb_fiber_raise()... yes
+checking for epoll_pwait2()... yes
+checking for ruby/io/buffer.h... yes
+creating extconf.h
+creating Makefile
+
+current directory: /home/scamander/Documents/GitHub/ScamanderWayne.github.io/vendor/bundle/ruby/3.3.0/gems/io-event-1.7.4/ext
+make DESTDIR\= sitearchdir\=./.gem.20241210-34994-r060gv sitelibdir\=./.gem.20241210-34994-r060gv clean
+
+current directory: /home/scamander/Documents/GitHub/ScamanderWayne.github.io/vendor/bundle/ruby/3.3.0/gems/io-event-1.7.4/ext
+make DESTDIR\= sitearchdir\=./.gem.20241210-34994-r060gv sitelibdir\=./.gem.20241210-34994-r060gv
+compiling ./io/event/event.c
+compiling ./io/event/selector/selector.c
+compiling ./io/event/selector/epoll.c
+compiling ./io/event/interrupt.c
+linking shared-object IO_Event.so
+
+current directory: /home/scamander/Documents/GitHub/ScamanderWayne.github.io/vendor/bundle/ruby/3.3.0/gems/io-event-1.7.4/ext
+make DESTDIR\= sitearchdir\=./.gem.20241210-34994-r060gv sitelibdir\=./.gem.20241210-34994-r060gv install
+/usr/bin/install -c -m 0755 IO_Event.so ./.gem.20241210-34994-r060gv
+
+current directory: /home/scamander/Documents/GitHub/ScamanderWayne.github.io/vendor/bundle/ruby/3.3.0/gems/io-event-1.7.4/ext
+make DESTDIR\= sitearchdir\=./.gem.20241210-34994-r060gv sitelibdir\=./.gem.20241210-34994-r060gv clean
