@@ -16,14 +16,14 @@ timezone: Europe/Prague
 
 title: Scamander Wayne # the main title
 
-tagline: Welcome to my web # it will display as the subtitle
+tagline: If you managed to get here you are either really interested in me or I shared you a link. No matter what, you can find more links at the bottom of the sidebar. # it will display as the subtitle
 
 description: >- # used by seo meta and the atom feed
   Personal playground of Scamander Wayne to do basically anything he thinks of doing.
 
 # Fill in the protocol & hostname for your site.
 # E.g. 'https://username.github.io', note that it does not end with a '/'.
-url: "https://scamanderwayne.github.io"
+url: "https://ScamanderWayne.github.io"
 
 github:
   username: ScamanderWayne # change to your GitHub username
@@ -154,7 +154,7 @@ pwa:
 paginate: 10
 
 # The base URL of your site
-baseurl: ""
+baseurl: "/ScamanderWayne.github.io"
 
 # ------------ The following options are not recommended to be modified ------------------
 
