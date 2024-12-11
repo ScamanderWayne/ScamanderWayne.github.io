@@ -1,10 +1,27 @@
 [
   
   {
+    "title": "Next step in creating webpage",
+    "url": "/ScamanderWayne.github.io/posts/SCREWUP/",
+    "categories": "DIARY, WEBPAGE",
+    "tags": "tinkering, dyingofdumbness",
+    "date": "2024-12-10 00:00:00 +0100",
+    
+
+
+
+
+
+    
+    "snippet": "Let me get you caught up to what I was for during last six days (wait, it is really already six days?). I realised I had no idea how Jekyll themes work.So I forked whole chirpy theme. I did not rea...",
+    "content": "Let me get you caught up to what I was for during last six days (wait, it is really already six days?). I realised I had no idea how Jekyll themes work.So I forked whole chirpy theme. I did not really need to. All changes I did so far (I am already thinking of changing colour palette, but this can wait) could have been done without forking as well. But this way I got a look into backstage. And people, trust my word on this, it is beautiful.For example home page through which you clicked on this post. It has one compress HTML file that basically compresses everything inside into usable HTML file. than there is default HTML that calls to all elements inside. Head is a different HTML file, sidebar as well, even whole home HTML. Just many pieces placed together. And same applies for any other site.Sites ABOUT and PROJECTS are basically just markdown (.md) files not really different from these blog posts.But to my actual work.I added different links at bottom of sidebar (if you have smaller screen you could have not noticed, I am sorry for that, still did no work on that), managed to make profile picture working. Added some custom texts for descriptions and so on.But I mostly just searched through file repository, searching what calls out to what. Figuring out how it is put together."
+  },
+  
+  {
     "title": "How this web got to be released (How Wayne nearly lost his mind)",
     "url": "/ScamanderWayne.github.io/posts/CREATION/",
     "categories": "DIARY, WEBPAGE",
-    "tags": "tinkerink",
+    "tags": "tinkering",
     "date": "2024-12-04 00:00:00 +0100",
     
 

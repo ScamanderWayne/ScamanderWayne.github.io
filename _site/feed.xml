@@ -4,7 +4,7 @@
   <id>http://localhost:4000/ScamanderWayne.github.io/</id>
   <title>Scamander Wayne</title>
   <subtitle>Personal playground of Scamander Wayne to do basically anything he thinks of doing.</subtitle>
-  <updated>2024-12-10T12:30:07+01:00</updated>
+  <updated>2024-12-11T10:55:38+01:00</updated>
   <author>
     <name>Libor Halík alias Scamander Wayne</name>
     <uri>http://localhost:4000/ScamanderWayne.github.io/</uri>
@@ -20,11 +20,37 @@
 
   
   <entry>
+    <title>Next step in creating webpage</title>
+    <link href="http://localhost:4000/ScamanderWayne.github.io/posts/SCREWUP/" rel="alternate" type="text/html" title="Next step in creating webpage" />
+    <published>2024-12-10T00:00:00+01:00</published>
+  
+    <updated>2024-12-10T18:42:14+01:00</updated>
+  
+    <id>http://localhost:4000/ScamanderWayne.github.io/posts/SCREWUP/</id>
+    <content type="text/html" src="http://localhost:4000/ScamanderWayne.github.io/posts/SCREWUP/" />
+    <author>
+      <name>wayne</name>
+    </author>
+
+  
+    
+    <category term="DIARY" />
+    
+    <category term="WEBPAGE" />
+    
+  
+
+  <summary>So now we are doing this Blog thing?</summary>
+
+  </entry>
+
+  
+  <entry>
     <title>How this web got to be released (How Wayne nearly lost his mind)</title>
     <link href="http://localhost:4000/ScamanderWayne.github.io/posts/CREATION/" rel="alternate" type="text/html" title="How this web got to be released (How Wayne nearly lost his mind)" />
     <published>2024-12-04T00:00:00+01:00</published>
   
-    <updated>2024-12-10T08:00:11+01:00</updated>
+    <updated>2024-12-10T18:42:33+01:00</updated>
   
     <id>http://localhost:4000/ScamanderWayne.github.io/posts/CREATION/</id>
     <content type="text/html" src="http://localhost:4000/ScamanderWayne.github.io/posts/CREATION/" />
@@ -40,7 +66,7 @@
     
   
 
-  <summary>About how I made my website</summary>
+  <summary>May I stop now?</summary>
 
   </entry>
 
