@@ -1,6 +1,6 @@
 ---
 title: Future plans
-date: 2024-12-04
+date: 2024-12-11
 categories: [ADMINISTRATIVE, MILESTONES]
 tags: [monologue]     # TAG names should always be lowercase
 description: Gonna write it down, right?
