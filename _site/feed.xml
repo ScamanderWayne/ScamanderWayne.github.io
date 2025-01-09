@@ -4,7 +4,7 @@
   <id>http://localhost:4000/ScamanderWayne.github.io/</id>
   <title>Scamander Wayne</title>
   <subtitle>Personal playground of Scamander Wayne to do basically anything he thinks of doing.</subtitle>
-  <updated>2024-12-11T10:55:38+01:00</updated>
+  <updated>2025-01-09T19:09:54+01:00</updated>
   <author>
     <name>Libor Halík alias Scamander Wayne</name>
     <uri>http://localhost:4000/ScamanderWayne.github.io/</uri>
@@ -13,10 +13,62 @@
   <link rel="alternate" type="text/html" hreflang="en"
     href="http://localhost:4000/ScamanderWayne.github.io/"/>
   <generator uri="https://jekyllrb.com/" version="4.3.4">Jekyll</generator>
-  <rights> © 2024 Libor Halík alias Scamander Wayne </rights>
+  <rights> © 2025 Libor Halík alias Scamander Wayne </rights>
   <icon>/ScamanderWayne.github.io/assets/img/favicons/favicon.ico</icon>
   <logo>/ScamanderWayne.github.io/assets/img/favicons/favicon-96x96.png</logo>
 
+
+  
+  <entry>
+    <title>Merry Christmas and Happy New Year</title>
+    <link href="http://localhost:4000/ScamanderWayne.github.io/posts/MERRYXMAS/" rel="alternate" type="text/html" title="Merry Christmas and Happy New Year" />
+    <published>2024-12-24T00:00:00+01:00</published>
+  
+    <updated>2025-01-06T12:45:39+01:00</updated>
+  
+    <id>http://localhost:4000/ScamanderWayne.github.io/posts/MERRYXMAS/</id>
+    <content type="text/html" src="http://localhost:4000/ScamanderWayne.github.io/posts/MERRYXMAS/" />
+    <author>
+      <name>wayne</name>
+    </author>
+
+  
+    
+    <category term="EVENTS" />
+    
+    <category term="HOLIDAYS" />
+    
+  
+
+  <summary>Once I make comments work I will ask you guys how you did X-Mas</summary>
+
+  </entry>
+
+  
+  <entry>
+    <title>Future plans</title>
+    <link href="http://localhost:4000/ScamanderWayne.github.io/posts/PLANSFORTHEFUTURE/" rel="alternate" type="text/html" title="Future plans" />
+    <published>2024-12-11T00:00:00+01:00</published>
+  
+    <updated>2024-12-12T11:11:19+01:00</updated>
+  
+    <id>http://localhost:4000/ScamanderWayne.github.io/posts/PLANSFORTHEFUTURE/</id>
+    <content type="text/html" src="http://localhost:4000/ScamanderWayne.github.io/posts/PLANSFORTHEFUTURE/" />
+    <author>
+      <name>wayne</name>
+    </author>
+
+  
+    
+    <category term="ADMINISTRATIVE" />
+    
+    <category term="MILESTONES" />
+    
+  
+
+  <summary>Gonna write it down, right?</summary>
+
+  </entry>
 
   
   <entry>
@@ -50,7 +102,7 @@
     <link href="http://localhost:4000/ScamanderWayne.github.io/posts/CREATION/" rel="alternate" type="text/html" title="How this web got to be released (How Wayne nearly lost his mind)" />
     <published>2024-12-04T00:00:00+01:00</published>
   
-    <updated>2024-12-10T18:42:33+01:00</updated>
+    <updated>2025-01-09T15:16:21+01:00</updated>
   
     <id>http://localhost:4000/ScamanderWayne.github.io/posts/CREATION/</id>
     <content type="text/html" src="http://localhost:4000/ScamanderWayne.github.io/posts/CREATION/" />

@@ -1,6 +1,40 @@
 [
   
   {
+    "title": "Merry Christmas and Happy New Year",
+    "url": "/ScamanderWayne.github.io/posts/MERRYXMAS/",
+    "categories": "EVENTS, HOLIDAYS",
+    "tags": "xmas",
+    "date": "2024-12-24 00:00:00 +0100",
+    
+
+
+
+
+
+    
+    "snippet": "Well, here it is. End of the year is coming.",
+    "content": "Well, here it is. End of the year is coming."
+  },
+  
+  {
+    "title": "Future plans",
+    "url": "/ScamanderWayne.github.io/posts/PLANSFORTHEFUTURE/",
+    "categories": "ADMINISTRATIVE, MILESTONES",
+    "tags": "monologue",
+    "date": "2024-12-11 00:00:00 +0100",
+    
+
+
+
+
+
+    
+    "snippet": "Well, it seems like I am not ending this project anytime soon, so I can as well write down ideas, so I can keep an eye on how my work is going.pages related ideas  Add Czech localization  Add suppo...",
+    "content": "Well, it seems like I am not ending this project anytime soon, so I can as well write down ideas, so I can keep an eye on how my work is going.pages related ideas  Add Czech localization  Add support to Github Repositories  Write at least one more blog post before 2024 ends"
+  },
+  
+  {
     "title": "Next step in creating webpage",
     "url": "/ScamanderWayne.github.io/posts/SCREWUP/",
     "categories": "DIARY, WEBPAGE",
@@ -30,8 +64,8 @@
 
 
     
-    "snippet": "Well, it was Wednesday, in December. I was currently in another boring class (if any of my teachers is reading that right now - sorry, but you must agree you can get pretty boring sometimes), when ...",
-    "content": "Well, it was Wednesday, in December. I was currently in another boring class (if any of my teachers is reading that right now - sorry, but you must agree you can get pretty boring sometimes), when I decided to check my GitHub profile. I was working on WayTeX repository during that time, so it was not that random to check whole profile. And what I did not find? Six months old Github Pages tryout. Abandoned. Sad. Unused. Kinda ugly.I thought I need to do something about it, so I deleted whole thing and thought it will be okay. But then the blank space remained. So I made research. I found Jekyll. I found Chirpy theme. I fell in love. So I recreated the repository and I must say. I was grateful. Without any work it looked good. Usable. Actually easy way to create website with control over it (maybe I have a little beef with Wordpress, maybe I absolutely hate it, but who can tell?).But then it hit me. I do not know what half of the code is. It has this cute sidebar with links at the bottom and I have no idea where it takes links from and how to change them. Tried to add Discord there and I cannot make it to show the thing. Or page’s tab icon. It still has the original icon and I cannot find where the hell is icon supposed to be."
+    "snippet": "Well, it was Wednesday, in December. I was currently in another boring class (if any of my teachers is reading that right now - sorry, but I am sure it was not yours class; I really like your class...",
+    "content": "Well, it was Wednesday, in December. I was currently in another boring class (if any of my teachers is reading that right now - sorry, but I am sure it was not yours class; I really like your classes, it was somebody else’s), when I decided to check my GitHub profile. I was working on WayTeX repository during that time, so it was not that random to check whole profile. And what I did not find? Six months old Github Pages tryout. Abandoned. Sad. Unused. Kinda ugly.I thought I need to do something about it, so I deleted whole thing and thought it will be okay. But then the blank space remained. So I made research. I found Jekyll. I found Chirpy theme. I fell in love. So I recreated the repository and I must say. I was grateful. Without any work it looked good. Usable. Actually easy way to create website with control over it (maybe I have a little beef with Wordpress, maybe I absolutely hate it, but who can tell?).But then it hit me. I do not know what half of the code is. It has this cute sidebar with links at the bottom and I have no idea where it takes links from and how to change them. Tried to add Discord there and I cannot make it to show the thing. Or page’s tab icon. It still has the original icon and I cannot find where the hell is icon supposed to be."
   }
   
 ]
